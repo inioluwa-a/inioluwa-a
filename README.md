@@ -7,8 +7,7 @@ I specialize in **WordPress, Webflow, and modern frontend stacks** to create cle
 - 🚀 I care about performance, readability, and user-friendly design
 - 🤝 Open to freelance work, collaborations, and cool web or data projects
 
-> Always learning, building, and improving.
-
+> The Simplest Solution Is Usually the Right One (Occam’s Razor)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/i-charles-apara/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:inioluwacharles06@gmail.com) 
