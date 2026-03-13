@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Ini
 
-I’m a **Software Developer** passionate about building fast, accessible websites and exploring data through code.
+I’m a **Software Engineer** passionate about building fast, accessible websites and exploring data through code.
 
-I specialize in **WordPress, Webflow, and modern frontend stacks** to create clean, responsive user interfaces. I also work with **Python, Pandas, and Jupyter** to analyze and visualize data.
+I specialize in **Bubble.io, WordPress, Webflow, and modern frontend stacks** to create clean, responsive user interfaces. I also work with **Python, Pandas, and Jupyter** to analyze and visualize data.
 
 - 🚀 I care about performance, readability, and user-friendly design
 - 🤝 Open to freelance work, collaborations, and cool web or data projects
