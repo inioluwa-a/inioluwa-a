@@ -4,7 +4,7 @@ I enjoy turning ideas into fast, usable products using modern frontend framework
 
 Currently focused on:
 - React / Next.js / TypeScript ecosystems
-- Mobile applications using Expo
+- Mobile apps using Expo
 - Agentic AI applications and automation
 - Product-focused engineering and rapid iteration
 
