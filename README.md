@@ -9,7 +9,7 @@
 
 <div align="center"><br/>
 
-<h3>Full Stack Developer</h3>
+<h3>Software Engineer</h3>
 
 <a href="https://www.linkedin.com/in/i-charles-apara/">Visit my Linkedin</a> ›› <a href="mailto:icharlesapara@gmail.com">Get in touch</a>
 
