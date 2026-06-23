@@ -21,7 +21,7 @@
 
 <ul>
   <li><strong>Languages:</strong> JavaScript, TypeScript, Python</li>
-  <li><strong>Libraries:</strong> jQuery, React, NumPY, Pandas, Scikit-learn, Matplotlib, Plotly, Seaborn</li>
+  <li><strong>Libraries:</strong> jQuery, React, NumPy, Pandas, Scikit-learn, Matplotlib, Plotly, Seaborn</li>
   <li><strong>Runtime & Frameworks:</strong> Node.js, Next.js, React Native (Expo) </li>
   <li><strong>Databases:</strong> PostgreSQL, Supabase, Appwrite</li>
 
@@ -33,8 +33,10 @@
 
   <br/>
   <li><strong>Hosting:</strong> Vercel, Netlify, Hostinger</li>
-  <li><strong>DevOps & CI/CD:</strong> Git, GitHub, Docker, Kubernetes</li>
+  <li><strong>DevOps & CI/CD:</strong> Git, GitHub, Docker</li>
   <li><strong>Analytics & Insights:</strong> PostHog, Google Analytics</li>
+  <li><strong>Tools:</strong> Postman, VS Code, Codex, Jupyter Notebook</li>
+  
 
 </ul>
 
