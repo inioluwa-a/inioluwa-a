@@ -1,9 +1,9 @@
 <table align="center">
-  <td>
-    <a href="#" title="Visit my portfolio">
+  <!-- <td>
+    <a href="https://www.flaticon.com/free-sticker/hi_9599129?term=anime&page=1&position=12&origin=tag&related_id=9599129" title="Visit my portfolio">
       <img src=""/>
     </a>
-  </td>
+  </td> -->
 
   <td>
 
