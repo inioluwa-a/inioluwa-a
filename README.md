@@ -35,9 +35,8 @@
   <li><strong>Hosting:</strong> Vercel, Netlify, Hostinger</li>
   <li><strong>DevOps & CI/CD:</strong> Git, GitHub, Docker</li>
   <li><strong>Analytics & Insights:</strong> PostHog, Google Analytics</li>
+  <li><strong>Testing:</strong> Playwright, Vitest, Jest</li>
   <li><strong>Tools:</strong> Postman, VS Code, Codex, Jupyter Notebook</li>
-  
-
 </ul>
 
 <p><strong>🎨 Certifications</strong></p>
