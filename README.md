@@ -16,75 +16,44 @@ I enjoy turning ideas into polished products using React, Next.js, TypeScript, P
 
 <br/>
 
-<h2>🌟 Featured Projects</h2>
+## 🚀 Featured Projects
 
-<table>
-<tr>
+| Project | Description | Live Demo |
+|---------|-------------|-----------|
+| **Socialverse HQ** | Modern marketing website built with a strong focus on performance, accessibility, and polished user experience. | https://www.socialversehq.com/ |
+| **Explore Torio** | Responsive travel platform with a modern user experience and engaging interface. | https://exploretorio.com/ |
+| **KitMatch** | Frontend application demonstrating reusable components and responsive design principles. | https://kitmatch.netlify.app/ |
+| **TechUp Africa** | Technology community platform with a clean and responsive frontend. | https://techupafrica.org/ |
 
-<td width="50%" valign="top">
+---
 
-### 🚀 CITAL Hub
+## 🧪 UI & Product Prototypes
 
-Modern marketplace platform featuring authentication, dashboards, responsive layouts, and intuitive user experience.
+These projects showcase product design, frontend architecture, and interactive UI prototypes created to validate ideas before backend development.
 
-🔗 https://citalhub.netlify.app/
+| Project | Description | Live Demo |
+|---------|-------------|-----------|
+| **CITAL Hub** | Interactive frontend prototype for a digital marketplace, created with Lovable to demonstrate the product vision, user flows, and interface before backend implementation. | https://citalhub.netlify.app/ |
+| **Oto Awori** | Interactive frontend prototype for a cultural and community platform, showcasing the user experience, information architecture, and visual identity before full-stack development. | https://otoawori.netlify.app/ |
 
-</td>
+---
 
-<td width="50%" valign="top">
+## 🌐 Webflow Projects
 
-### 🌍 Socialverse HQ
+| Project | Description | Live Demo |
+|---------|-------------|-----------|
+| **Space Calendar** | Interactive space-themed experience designed and developed with Webflow. | https://spacecalendarproject.webflow.io/ |
 
-Modern marketing website built with a strong focus on responsive design, performance, and polished UI.
+---
 
-🔗 https://www.socialversehq.com/
+## 🫧 Bubble Applications
 
-</td>
+| Project | Description | Live Demo |
+|---------|-------------|-----------|
+| **Quail Social** | Social networking application built with Bubble.io. | https://quailsocial.bubbleapps.io/version-test/ |
+| **Workplace** | Workplace and collaboration platform built with Bubble.io. | https://workplace-29456.bubbleapps.io/version-test |
 
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🚀 Space Calendar
-
-Interactive space-themed experience designed and developed in Webflow.
-
-🔗 https://spacecalendarproject.webflow.io/
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🎽 KitMatch
-
-Frontend application demonstrating clean component architecture and responsive user interfaces.
-
-🔗 https://kitmatch.netlify.app/
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🌍 TechUp Africa
-
-Technology community platform built with a modern responsive frontend.
-
-🔗 https://techupafrica.org/
-
-</td>
-
-<td width="50%"></td>
-
-</tr>
-</table>
-
-<br/>
+---
 
 <h2>🤝 Selected Collaborations</h2>
 
