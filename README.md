@@ -1,67 +1,195 @@
-<table align="center">
-  <!-- <td>
-    <a href="https://www.flaticon.com/free-sticker/hi_9599129?term=anime&page=1&position=12&origin=tag&related_id=9599129" title="Visit my portfolio">
-      <img src=""/>
-    </a>
-  </td> -->
+<h1 align="center">Hi, I'm Inioluwa Apara 👋</h1>
 
-  <td>
+<p align="center">
+Software Engineer focused on building modern web applications, AI-powered products, and scalable digital experiences.
+</p>
 
-<div align="center"><br/>
+<p align="center">
+I enjoy turning ideas into polished products using React, Next.js, TypeScript, Python, and modern cloud technologies.
+</p>
 
-<h3>Software Engineer</h3>
-
-<a href="https://www.linkedin.com/in/i-charles-apara/">Visit my Linkedin</a> ›› <a href="mailto:icharlesapara@gmail.com">Get in touch</a>
-
-</div>
-
-<br/>
-
-<p><strong>🚀 Stack</strong></p>
-
-<ul>
-  <li><strong>Languages:</strong> JavaScript, TypeScript, Python</li>
-  <li><strong>Libraries:</strong> jQuery, React, NumPy, Pandas, Scikit-learn, Matplotlib, Plotly, Seaborn</li>
-  <li><strong>Runtime & Frameworks:</strong> Node.js, Next.js, React Native (Expo) </li>
-  <li><strong>Databases:</strong> PostgreSQL, Supabase, Appwrite</li>
-
-  <br/>
-  
-  <li><strong>Styling:</strong> Tailwind CSS, shadcn/ui</li>
-  <li><strong>Design & UI:</strong> Figma, Stitch</li>
-  <li><strong>Low-Code:</strong> Bubble.io, Wordpress, Webflow</li>
-
-  <br/>
-  <li><strong>Hosting:</strong> Vercel, Netlify, Hostinger</li>
-  <li><strong>DevOps & CI/CD:</strong> Git, GitHub, Docker</li>
-  <li><strong>Analytics & Insights:</strong> PostHog, Google Analytics</li>
-  <li><strong>Testing:</strong> Playwright, Vitest, Jest</li>
-  <li><strong>Tools:</strong> Postman, VS Code, Codex, Jupyter Notebook</li>
-</ul>
-
-<p><strong>🎨 Certifications</strong></p>
-
-<ul>
-  <li><strong>freeCodeCamp:</strong> <a href="https://www.freecodecamp.org/certification/aparaic/responsive-web-design-v9" target= _blank rel= noopener noreferrer> Responsive Web Design </a>, <a href="https://www.freecodecamp.org/certification/aparaic/javascript-v9" target= _blank rel= noopener noreferrer>Javascript</a></li>
-  <li><strong>DataCamp:</strong> <a href="https://www.datacamp.com/skill-verification/AIF0022666115213" target= _blank rel= noopener noreferrer>AI Fundamentals</a>, <a href="https://www.datacamp.com/skill-verification/DL0034659730360" target= _blank rel= noopener noreferrer>Data Literacy Professional</a></li>
-  <li><strong>Sololearn:</strong> <a href="#" target= _blank rel= noopener noreferrer>HTML </a>,
-    <a href="https://www.sololearn.com/en/certificates/CT-CUNTY802" target= _blank rel= noopener noreferrer>CSS </a>, 
-    <a href="https://www.sololearn.com/en/certificates/CT-BWGFGOIP" target= _blank rel= noopener noreferrer>JavaScript </a>, 
-    <a href="https://www.sololearn.com/en/certificates/CT-MORTBH13" target= _blank rel= noopener noreferrer>jQuery </a> </li>
-</ul>
-
-
-<a href="#">
-<img src="https://i.ibb.co/qB2dNN7/blank.png" style="width: 400px; height:1px" />
-</a>
+<p align="center">
+<a href="https://www.linkedin.com/in/i-charles-apara/">LinkedIn</a>
+•
+<a href="mailto:icharlesapara@gmail.com">Email</a>
+</p>
 
 <br/>
 
-  </td>
+<h2>🌟 Featured Projects</h2>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🚀 CITAL Hub
+
+Modern marketplace platform featuring authentication, dashboards, responsive layouts, and intuitive user experience.
+
+🔗 https://citalhub.netlify.app/
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌍 Socialverse HQ
+
+Modern marketing website built with a strong focus on responsive design, performance, and polished UI.
+
+🔗 https://www.socialversehq.com/
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🚀 Space Calendar
+
+Interactive space-themed experience designed and developed in Webflow.
+
+🔗 https://spacecalendarproject.webflow.io/
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎽 KitMatch
+
+Frontend application demonstrating clean component architecture and responsive user interfaces.
+
+🔗 https://kitmatch.netlify.app/
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🌍 TechUp Africa
+
+Technology community platform built with a modern responsive frontend.
+
+🔗 https://techupafrica.org/
+
+</td>
+
+<td width="50%"></td>
+
+</tr>
 </table>
 
-<div align="center">
-  <a href="https://x.com/inioluwa_apara" title="Visit my portfolio">
-    <img src="https://pbs.twimg.com/profile_banners/1669047660282535948/1724252179/1080x360"/>
-  </a>
-</div>
+<br/>
+
+<h2>🤝 Selected Collaborations</h2>
+
+These are products I contributed to as part of a larger engineering team.
+
+| Project | Contribution | Links |
+|---------|--------------| --------------|
+| **ChatGrow** | Frontend development, feature implementation, UI improvements | 🔗 https://chatgrow.co/ |
+| **SavvyNomad** | Frontend engineering, platform features, product enhancements | 🔗 https://app.savvynomad.io/ |
+
+<br/>
+
+<h2>🎓 Certifications</h2>
+
+- **freeCodeCamp**
+  - Responsive Web Design
+  - JavaScript Algorithms & Data Structures
+
+- **DataCamp**
+  - AI Fundamentals
+  - Data Literacy Professional
+
+- **Sololearn**
+  - HTML
+  - CSS
+  - JavaScript
+  - jQuery
+
+<br/>
+
+<h2>🚀 Tech Stack</h2>
+
+### Languages
+
+- JavaScript
+- TypeScript
+- Python
+
+### Frontend
+
+- React
+- Next.js
+- React Native (Expo)
+- HTML5
+- CSS3
+- Tailwind CSS
+- shadcn/ui
+
+### Backend
+
+- Node.js
+- Express.js
+
+### Databases
+
+- PostgreSQL
+- Supabase
+- Appwrite
+
+### Data & AI
+
+- NumPy
+- Pandas
+- Scikit-learn
+- Matplotlib
+- Plotly
+
+### Design
+
+- Figma
+- Stitch
+
+### CMS & No-Code
+
+- WordPress
+- Webflow
+- Bubble.io
+
+### DevOps
+
+- Git
+- GitHub
+- Docker
+
+### Testing
+
+- Playwright
+- Vitest
+- Jest
+
+### Analytics
+
+- PostHog
+- Google Analytics
+
+### Tools
+
+- VS Code
+- Postman
+- Jupyter Notebook
+- Codex
+
+<br/>
+
+<p align="center">
+Thanks for stopping by! ⭐
+</p>
+
