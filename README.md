@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Inioluwa Apara 👋</h1>
+<h1 align="center">Hi, I'm Charles 👋</h1>
 
 <p align="center">
 Software Engineer focused on building modern web applications, AI-powered products, and scalable digital experiences.
@@ -97,95 +97,23 @@ These are products I contributed to as part of a larger engineering team.
 
 <br/>
 
-<h2>🎓 Certifications</h2>
+## 🎓 Certifications
 
-- **freeCodeCamp**
-  - Responsive Web Design
-  - JavaScript Algorithms & Data Structures
-
-- **DataCamp**
-  - AI Fundamentals
-  - Data Literacy Professional
-
-- **Sololearn**
-  - HTML
-  - CSS
-  - JavaScript
-  - jQuery
+| Provider | Certifications |
+|----------|----------------|
+| **freeCodeCamp** | <a href="https://www.freecodecamp.org/certification/aparaic/responsive-web-design-v9" target="_blank">Responsive Web Design</a> • <a href="https://www.freecodecamp.org/certification/aparaic/javascript-v9" target="_blank">JavaScript Algorithms & Data Structures</a> |
+| **DataCamp** | <a href="https://www.datacamp.com/skill-verification/AIF0022666115213" target="_blank">AI Fundamentals</a> • <a href="https://www.datacamp.com/skill-verification/DL0034659730360" target="_blank">Data Literacy Professional</a> |
+| **Sololearn** | HTML • <a href="https://www.sololearn.com/en/certificates/CT-CUNTY802" target="_blank">CSS</a> • <a href="https://www.sololearn.com/en/certificates/CT-BWGFGOIP" target="_blank">JavaScript</a> • <a href="https://www.sololearn.com/en/certificates/CT-MORTBH13" target="_blank">jQuery</a> |
 
 <br/>
 
-<h2>🚀 Tech Stack</h2>
+## 🚀 Tech Stack
 
-### Languages
-
-- JavaScript
-- TypeScript
-- Python
-
-### Frontend
-
-- React
-- Next.js
-- React Native (Expo)
-- HTML5
-- CSS3
-- Tailwind CSS
-- shadcn/ui
-
-### Backend
-
-- Node.js
-- Express.js
-
-### Databases
-
-- PostgreSQL
-- Supabase
-- Appwrite
-
-### Data & AI
-
-- NumPy
-- Pandas
-- Scikit-learn
-- Matplotlib
-- Plotly
-
-### Design
-
-- Figma
-- Stitch
-
-### CMS & No-Code
-
-- WordPress
-- Webflow
-- Bubble.io
-
-### DevOps
-
-- Git
-- GitHub
-- Docker
-
-### Testing
-
-- Playwright
-- Vitest
-- Jest
-
-### Analytics
-
-- PostHog
-- Google Analytics
-
-### Tools
-
-- VS Code
-- Postman
-- Jupyter Notebook
-- Codex
+| Category | Technologies |
+|----------|--------------|
+| **Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) |
 
 <br/>
 
